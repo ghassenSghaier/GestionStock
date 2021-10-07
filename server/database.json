@@ -1,0 +1,40 @@
+{
+  "companies": [{
+    "id": 1,
+    "name": "apple",
+    "address": "01 five streets"
+  },{
+    "id": 2,
+    "name": "apple",
+    "address": "01 five streets"
+  },{
+    "id": 3,
+    "name": "apple",
+    "address": "01 five streets"
+  },{
+    "id": 4,
+    "name": "apple",
+    "address": "01 five streets"
+  }],
+  "employees":[{
+    "id": 1,
+    "firstName": "ghassen",
+    "secondName": "Sghaier",
+    "companyId": 1
+  },{
+    "id": 2,
+    "firstName": "mohamed",
+    "secondName": "Ghassen",
+    "companyId": 1
+  },{
+    "id": 3,
+    "firstName": "Iyad",
+    "secondName": "Ben Achour",
+    "companyId": 2
+  },{
+    "id": 4,
+    "name": "Ahmed",
+    "address": "Moussa",
+    "companyId": 3
+  }]
+}
